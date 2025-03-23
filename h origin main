@@ -1,0 +1,9 @@
+[33mcommit aa9b2e88b17af3347fd805164aa35493fa1795ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: NiraslabDEV <niraslabdev@gmail.com>
+Date:   Sat Mar 22 20:04:45 2025 -0300
+
+    Aprimoramento da seção de serviços com abas interativas, cartões modernos e efeitos avançados
+
+M	index.html
+M	script.js
+M	styles.css

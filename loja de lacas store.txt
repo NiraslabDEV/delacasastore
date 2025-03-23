@@ -1,60 +1,15 @@
-cores degrade. azul, laranja e roxo 
+git commit -m "alteração que foi feita"
 
-tenha tema claro e tema escuro (usar bem preto)
+@https://sm.ign.com/ign_pt/photo/i/iphone-16-/iphone-16-series-announced-featuring-a-new-camera-button-ai_1ec6.jpg  coloca no lugar do produto iphone.. esse é o 16 que vc vai colocar 7687,00
 
+@https://s2-g1.glbimg.com/M7W58J5i82SvD0emyGtRah8EDyM=/0x0:980x783/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/t/O/iTMX9zTDK1WpNdNAZEXQ/apple-airpods-pro-2nd-gen-hero-220907-big.jpg.large.jpg 
+air podspro 2º geração 2.200.00
 
-💡 Estilo Visual:
-- Futurista moderno
-- Tons predominantes: [ex:  neon degrade zul e roxo, cinza metálico]
-- Estética: [ex: cyberpunk, ultra-minimalista, sci-fi clean]
+@https://abedtahan.com/cdn/shop/files/AIRTAG_1_PACK.jpg?v=1726819255 
+airtag rastrweador 267.00
 
-usar somente html5 css3 e javascript vanila.
-usar tecnica paralaxe imersiva e efeito glitch nos h2 e h1
+@https://http2.mlstatic.com/D_NQ_NP_919688-MLU76891726398_062024-O.webp 
+Apple Watch Ultra 2 GPS + Cellular • Caixa de titânio – 49 mm • Pulseira Oceano azul
+R$ 5.899,90*
 
-
-sera um site instituciona impactante e muito profissional .
-
-loja apple revenda e manutenção
-
-de la casa apple store
-
-DELACASA APPLE STORE
-Produto/serviço
-📲Apple&Assistência Técnica
-iPhone,MacBook,iPad e acessórios
-🚀Pronta entrega 💳 Parcelamos até 21x
-🔄Transferência de dados
-📍Rua Columbia,582-Santo André
-Rua columbia 582, Santo André, Brazil
-api.whatsapp.com/send?1=pt_BR&phone=5511987609959
-
-. IFRAME HERO
-VIDEO centralizado mas um pouco mais pra baixo do meio, coloque a frase "DELACASA APPLE STORE"
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=9710955442639576" height="531" width="450" frameborder="0" scrolling="no" ></iframe>
-
-sessões sobre
-
-serviços
-compramos tbm.
-
-produtos ( futurista os cards ) levar para o whats a compra .ex : iphone apple 16 .. ai no botão pro whats. ja mandar com a menssagem do produto e com o preço e dados do cel que está no anuncio.
-
-sesãop manifesto
-
-localização com mapa integrado
-
-todo botoes levar para o whats.
-
-
-
-
-
-IFRAME PARA ALGUMA SESSÃO 
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=163044449005815929" height="900" width="450" frameborder="0" scrolling="no" ></iframe>
-
-iframe seão
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=888123989021584884" height="700" width="600" frameborder="0" scrolling="no" ></iframe>
-
+desses 4 prodtuos 3 quero que sejam novos produtos. para fica com um total de 7
